@@ -12,6 +12,17 @@ Now to use Mathlab you have two main ways:
 
 2-uploading a text file with all the inputs and required operations with extension".m"
 
+Core Operations And it's Command Lines:
+C = A + B  // Add
+
+C = A - B  //Subtract
+
+C = A * B  //multiplication
+
+C = A / B  //Division
+
+C = A'     //Inverse
+
 # phase 2  
 requirements:
 ● Support mathematical functions.
