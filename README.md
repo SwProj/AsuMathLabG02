@@ -1,4 +1,4 @@
-# software-project
+# C++ - ASU Math Lab - Project
 software project content
 phase 2 description 
 Phase 2: Advanced Operations and Tuning
