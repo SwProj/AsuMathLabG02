@@ -4,17 +4,7 @@ In this phase we will be implementing matlab's main operations in our own versio
 
 This version of mathlab supports the following operations:
 
-Copy.
-Add Column.
-Add Row.
-Addition.
-Subtraction.
-Multiplication.
-Division.
-Transpose.
-Determinant.
-Inverse.
-Cofactor.
+Copy-Add Column-Add Row-Addition-Subtraction-Multiplication-Division-Transpose-Determinant-Inverse-Cofactor.
 
 Now to use Mathlab you have two main ways:
 
