@@ -1,32 +1,29 @@
 # C++ - ASU Math Lab - Project
-software project content
-phase 2 description 
-Phase 2: Advanced Operations and Tuning
+# phase 1
+In this phase we will be implementing matlab's main operations in our own version of (MATHLAB) .Our code is written with C++ and it mainly works with only matrices.
+This version of mathlab supports the following operations:
+Copy.
+Add Column.
+Add Row.
+Addition.
+Subtraction.
+Multiplication.
+Division.
+Transpose.
+Determinant.
+Inverse.
+Cofactor.
+Now to use Mathlab you have two main ways:
+1-using the command line
+2-uploading a text file with all the inputs and required operations with extension".m"
+
+# phase 2  
+requirements:
 ● Support mathematical functions.
-○ Trigonometric, Logarithmic, Roots, Power
+ (Trigonometric, Logarithmic, Roots, Power)
 ● Support mathematical expressions.
-○ Either with (dot) or not.
+ (Either with (dot) or not.)
 ● Support flexible matrix parser.
-○ Accept matrix in matrix, expressions and variables
+ (Accept matrix in matrix, expressions and variables)
 ● Support error handling.
-○ Do not crash for invalid input.
-Phase 2: Advanced Operations and Tuning
-Acceptance Conditions:
-● Delivered at provided server.
-● Provide correct result identical to Matlab or Octave.
-Competition:
-● Fastest response time for large inputs.
-● How many mathematical operations supported.
-Phase 2: Advanced Operations and Tuning
-A = 5.5 + 12 * sin(0.4) + 2.2^4;
-B = [1.2 2.3 A;[1.3 2.4;4.6 1.3],[3.2;7.8]];
-C = [[B [3.4; 2.1; 3.5+9.1]]
- 1.2^3 3+1.2 15/(2.1+10*sin(0.12)) 1.2]
-D = rand(4,4)
-E = eye(4, 4)
-F = zeros(2, 3)
-G = ones(3, 6)
-L = (1.2 + 3.4 - 5.6)/(2.1*3.2 + 4.6) -
-12.1*3.1 + (1.2 + 5.2)^(4/(3.2+5.6))
-X = ((C*D .+ 4)./2.1 + sqrt(D))./C.^2
-Y = (C^3 * sin(1./D))^(0.1)
+ (Do not crash for invalid input)
